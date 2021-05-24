@@ -1,7 +1,4 @@
-const container_flip = document.querySelector('.flip-card-inner');
-container_flip.addEventListener('click', function(flip){
-    container_flip.classList.toggle('is-flipped');
-})
+
 
 //This function hightlights the fields in the contact page after they have been filled out
 function myFunction(highlight) {
