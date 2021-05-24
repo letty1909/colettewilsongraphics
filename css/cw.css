@@ -56,10 +56,11 @@ html {
     margin-top: 0px;
 }
 
-@media screen and (min-width: 299px) and (max-width: 960px) {
+@media screen and (min-width: 299px) and (max-width: 860px) {
     .home_header {
         height: 100%;
         margin-top: 40px;
+        margin-left: 0px;
     }
 }
 
@@ -67,20 +68,33 @@ html {
     header {
         height: 100%;
         margin-top: 40px;
+        margin-left: 0px;
     }
 }
 
 @media screen and (min-width: 956px) and (max-width: 962px) {
     h2 {
         margin-top: 50px;
+        margin-left: 0px;
     }
 }
 
 .header-content {
     z-index: 1;
     position: relative;
-    margin: 0px 70px 0px;
+    margin-left: 60px;
 }
+
+
+
+@media screen and (min-width: 320px) and (max-width: 962px) {
+    .header-content {
+        margin-top: 50px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+}
+
 
 
 
@@ -919,7 +933,7 @@ nav ul {
 
 
 /* ------------------------STUDIO PAGE HEADER */
-.studio {
+.studio-container {
     background: url('../studio/studiobanner.png');
     background-size: cover;
     background-position: center center;
@@ -929,6 +943,64 @@ nav ul {
     z-index: -1;
     margin-top: 0px;
 }
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    #colimage {
+        margin-left: auto;
+        margin-bottom: 0px;
+    }
+}
+
+
+
+
+
+@media screen and (min-width: 956px) and (max-width: 962px) {
+    h2 {
+        margin-top: 50px;
+        margin-left: 0px;
+    }
+}
+
+
+@media screen and (min-width: 299px) and (max-width: 860px) {
+    .studio-container {
+        height: 100%;
+        margin-top: 40px;
+        margin-left: 0px;
+    }
+}
+
+
+@media screen and (min-width: 299px) and (max-width: 768px) {
+    header {
+        height: 100%;
+        margin-top: 40px;
+        margin-bottom: 0px;
+    }
+}
+
+@media screen and (min-width: 299px) and (max-width: 768px) {
+    .header-content img {
+        height: 100%;
+        margin-top: 40px;
+        margin-bottom: 0px;
+    }
+}
+
+@media screen and (min-width: 983px) and (max-width: 1200px) {
+    .header-content img {
+        height: 100%;
+        margin-top: 40px;
+        margin-bottom: 0px;
+    }
+}
+
+
+
+/* ---------------------------THE PROCESS-------------*/
 
 section {
     width: 90%;
@@ -942,22 +1014,6 @@ section h2 {
 
 .mystory_container h2 {
     padding-top: 0px;
-}
-
-@media screen and (min-width: 299px) and (max-width: 768px) {
-    header {
-        height: 100%;
-        margin-top: 40px;
-        margin-bottom: 60px;
-    }
-}
-
-@media screen and (min-width: 299px) and (max-width: 768px) {
-    .header-content img {
-        height: 100%;
-        margin-top: 40px;
-        margin-bottom: 100px;
-    }
 }
 
 
@@ -974,7 +1030,7 @@ section h2 {
 
 @media only screen and (min-width: 320px) and (max-width: 730px) {
     .mystory_container {
-        margin-top: 500px;
+        margin-top: 50px;
     }
 }
 
@@ -1032,9 +1088,12 @@ section h2 {
     }
 
     .img-fluid img {
-
         margin: auto;
     }
+}
+
+.mystory-img {
+    margin-bottom: 0px;
 }
 
 .mystory_container {
