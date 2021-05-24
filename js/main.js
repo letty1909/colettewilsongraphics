@@ -29,7 +29,7 @@ function mouseOver() {
 }
 
 function mouseOut() {
-  document.getElementById("demo").style.color = "#f37650";
+  document.getElementById("demo").style.color = "#f26337";
 }
 
 

@@ -1,7 +1,7 @@
 /* 
 Author:Colette Wilson Copyright 2021/
 
-/* Main colours peach #f37650 blue #2babe3, pink #c7a5a2, buff colour #fffcf3 */
+/* Main colours peach #f26337 blue #2babe3, pink #c7a5a2, buff colour #fffcf3 */
 /* gradient background: linear-gradient(130deg, rgba(43,171,227,1) 4%, rgba(0,91,151,1) 72%);*/
 
 
@@ -459,7 +459,7 @@ nav ul li a {
 }
 
 nav ul li {
-    border-bottom: 1.8px dotted #f37650;
+    border-bottom: 1.8px dotted #f26337;
 }
 
 nav div:first-child {
@@ -504,7 +504,7 @@ nav ul {
         right: 0;
         width: 0%;
         height: 2px;
-        background: #f37650;
+        background: #f26337;
         transition: .2s width ease-in-out;
     }
 
@@ -727,7 +727,7 @@ nav ul {
     
     .price h2{
         font-size: 90px;
-        color:#f37650;
+        color:#f26337;
     font-family: "Proxima Nova", sans-serif;
     font-weight: 500;
     }
@@ -1633,7 +1633,7 @@ select,
 textarea {
     width: 100%;
     padding: 12px;
-    border: 1px solid #e1613a;
+    border: 1px solid #f26337;
     border-radius: 4px;
     box-sizing: border-box;
     margin-top: 6px;
@@ -1907,7 +1907,7 @@ h2 {
     font-style: normal;
     text-transform: uppercase;
     font-weight: 400;
-    color: #f37650;
+    color: #f26337;
     padding: 10px;
     letter-spacing: 6px;
     line-height: 1.4;
