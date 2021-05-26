@@ -5,6 +5,7 @@ Author:Colette Wilson Copyright 2021/
 /* gradient background: linear-gradient(130deg, rgba(43,171,227,1) 4%, rgba(0,91,151,1) 72%);*/
 
 
+@import url("https://use.typekit.net/zcd0lwt.css");
 
 h1,
 h2 {
@@ -543,7 +544,7 @@ nav ul {
 
 .btn {
     text-transform: uppercase;
-    background-color: #2babe3;
+    background-color: #1B99D0;
     border: none;
     color: white;
     padding: 10px;
@@ -552,11 +553,11 @@ nav ul {
     font-style: normal;
     font-size: 16px;
     border-radius: 40px;
-    border: 2px solid #2babe3;
+    border: 2px solid #1B99D0;
     width: 280px;
     font-family: "Proxima Nova";
-    font-weight: 400;
-    letter-spacing: 2px;
+    font-weight: 700;
+    letter-spacing: 3px;
     cursor: pointer;
     justify-content: center;
     margin-top: 60px;
@@ -582,8 +583,8 @@ nav ul {
     border: 2px solid white;
     width: 280px;
     font-family: "Proxima Nova";
-    font-weight: 400;
-    letter-spacing: 2px;
+    font-weight: 700;
+    letter-spacing: 3px;
     cursor: pointer;
     justify-content: center;
     margin-top: 60px;
@@ -593,6 +594,9 @@ nav ul {
     background-color: #005b97;
     color: white;
     text-decoration: none;
+}
+#ft{
+    width: 200px;
 }
 
 .button1 {
@@ -1711,7 +1715,7 @@ textarea {
 
 input[type=submit] {
     text-transform: uppercase;
-    background-color: #2babe3;
+    background-color: #1B99D0;
     border: none;
     color: white;
     padding: 10px;
@@ -1720,7 +1724,7 @@ input[type=submit] {
     font-style: normal;
     font-size: 16px;
     border-radius: 40px;
-    border: 2px solid #2babe3;
+    border: 2px solid #1B99D0;
     width: 200px;
     font-family: "Proxima Nova", sans-serif;
     font-weight: 400;
@@ -1875,6 +1879,7 @@ footer h3 {
     text-decoration: none;
 }
 
+
 .segment-two a:hover {
     text-decoration: none;
     color: #005b97;
@@ -1916,6 +1921,14 @@ footer h3 {
     margin-top: 15px;
 }
 
+
+
+#but{
+    margin-top: 0px;
+}
+
+
+
 /* FOOTER terms and conditions*/
 .ft-legal {
     text-align: center;
@@ -1927,8 +1940,9 @@ footer h3 {
     text-align: center;
     font-family: "Baskerville", serif;
     font-style: italic;
-    font-size: 16px;
+    font-size: 22px;
     padding-top: 20px;
+    margin-top: 50px;
 }
 
 .ft-legal-list li a {
