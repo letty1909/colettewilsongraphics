@@ -374,7 +374,7 @@ header h2 {
 /* ----------HOME---PINK PANEL*/
 
 .homepinkblock {
-    background-color: #c7a5a2;
+    background-color: #B58787;
     border-radius: 20px;
     width: 90%;
     color: white;
@@ -421,7 +421,7 @@ header h2 {
 /* ----------HOME-----PINK PANEL BOTTOM OF PAGE*/
 .homepinkblock2 {
     z-index: 2;
-    background-color: #c7a5a2;
+    background-color: #B58787;
     border-radius: 20px;
     width: 90%;
     color: white;
@@ -613,7 +613,7 @@ nav ul {
 
 .homepinkblock {
     z-index: 2;
-    background-color: #c7a5a2;
+    background-color: #B58787;
     border-radius: 20px;
     width: 90%;
     color: white;
@@ -671,7 +671,7 @@ nav ul {
 /* ------------SERVICES PINK BLOCK-------------*/
 .services_pinkblock{
     z-index: 2;
-    background-color: #c7a5a2;
+    background-color: #B58787;
     border-radius: 20px;
     width: 90%;
     color: white;
@@ -1164,7 +1164,7 @@ section h2 {
 
 .homepinkblock {
     z-index: 2;
-    background-color: #c7a5a2;
+    background-color: #B58787;
     border-radius: 20px;
     width: 90%;
     color: white;
@@ -1606,7 +1606,7 @@ align-items: center;
 /* ------CONTACT FORM AD IFRAME STYLS---- */
 
 .contact-container {
-    background-color: #bf9a97;
+    background-color: #B58787;
     background-size: cover;
     background-position: center center;
     height: 100%;
