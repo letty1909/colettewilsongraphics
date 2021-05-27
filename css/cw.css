@@ -5,7 +5,7 @@ Author:Colette Wilson Copyright 2021/
 /* gradient background: linear-gradient(130deg, rgba(43,171,227,1) 4%, rgba(0,91,151,1) 72%);*/
 
 
-@import url("https://use.typekit.net/zcd0lwt.css");
+
 
 h1,
 h2 {
@@ -464,6 +464,8 @@ header h2 {
 
 
 /* ----------HOME BOTTOM NAV---------Navigation bar */
+
+
 nav ul {
     list-style: none;
     padding: 0;
