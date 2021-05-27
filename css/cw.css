@@ -558,7 +558,7 @@ nav ul {
     border: 2px solid #1B99D0;
     width: 280px;
     font-family: "Proxima Nova";
-    font-weight: 700;
+    font-weight: 500;
     letter-spacing: 3px;
     cursor: pointer;
     justify-content: center;
@@ -585,7 +585,7 @@ nav ul {
     border: 2px solid white;
     width: 280px;
     font-family: "Proxima Nova";
-    font-weight: 700;
+    font-weight: 500;
     letter-spacing: 3px;
     cursor: pointer;
     justify-content: center;
